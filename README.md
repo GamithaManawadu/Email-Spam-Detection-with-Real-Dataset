@@ -70,11 +70,11 @@ check_email("Meeting scheduled for tomorrow at 2 PM in conference room B")
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/spam-detection.git
-cd spam-detection
+git clone https://github.com/GamithaManawadu/Email-Spam-Detection-with-Real-Dataset.git
+cd email-spam-detection-with-real-dataset
 
 # Install dependencies
-pip install pandas numpy matplotlib seaborn scikit-learn
+pip install -r requirements.txt
 ```
 
 ## 🛠 Tech Stack
